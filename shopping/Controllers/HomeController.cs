@@ -15,7 +15,7 @@ namespace shopping.Controllers
 
         public HomeController(ILogger<HomeController> logger)
             asdas
-
+            asdaddas
         {
             _logger = logger;
         }
