@@ -17,7 +17,7 @@ namespace shopping.Controllers
             asdas
             asdaddas
         {
-            _logger = logger;
+            _logger = logger;chgchgcqwredqe
         }
 
         public IActionResult Index()
